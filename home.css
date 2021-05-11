@@ -32,7 +32,7 @@
  
     }    
 
-    .fa {
+    /* .fa {
         padding: 10px;
         font-size: 20px;
         width: 20px;
@@ -40,7 +40,14 @@
         text-decoration: none;
         margin: 5px 2px;
         border-radius: 50%;
-      }
+      } */
+      .fa {  
+        padding: 20px;  
+      text-align: center;  
+        margin: 5px 2px;  
+        font-size: 30px;  
+        width: 50px;  
+      }  
       
       .fa:hover {
           opacity: 0.7;
@@ -74,5 +81,11 @@
       .fa-instagram {
         background: #125688;
         color: white;
+      }
+      .bimg {
+        background-image: url('AI.png');
+
+      
+       background-repeat: no-repeat, repeat;
       }
       
